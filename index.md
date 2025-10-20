@@ -22,12 +22,14 @@ Welcome! This site hosts my final project video, artifacts, and a professional s
 ## Project Video
 <!-- Replace YOUR_VIDEO_ID -->
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;">
-  <iframe src="https://www.youtube.com/watch?v=iecwKq3W6-E"
+  <iframe src="https://www.youtube.com/embed/iecwKq3W6-E"
           title="Code Review" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen
           style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
 </div>
+[Watch on YouTube](https://www.youtube.com/watch?v=iecwKq3W6-E)
+
 
 ## Artifacts
 - [Weight Tracker (Android) – repo](https://github.com/MattBates25/ePortfolio)
